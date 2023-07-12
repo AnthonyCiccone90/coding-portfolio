@@ -5,6 +5,8 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 
 ## Description
-This challenge was to based on creating a personal portfolio with the same fuctioninality as the mockup. This functionality included UI scrolling, clickable images and resizing images realtive to a different screen sizes.
+This challenge was to based on creating a personal portfolio with the same fuctioninality as the mockup. This functionality included UI scrolling, clickable images and resizing images realtive to a different screen sizes. Below are two screenshots of how the page will load for a desktop view.
 
-User story provided by University of Denver FSF coding bootcamp.# coding-portfolio
+![Alt text](<Screenshot 2023-07-12 at 17.33.08.png>)
+![Alt text](<Screenshot 2023-07-12 at 17.38.44.png>)
+User story provided by University of Denver FSF coding bootcamp.# 
