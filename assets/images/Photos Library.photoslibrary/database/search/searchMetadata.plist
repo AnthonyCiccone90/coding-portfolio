@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BlacklistedMeaningsByMeaning</key>
+	<dict/>
+	<key>SceneWhitelist</key>
+	<array>
+		<string>Animal</string>
+		<string>Aquarium</string>
+		<string>Art</string>
+		<string>Bird</string>
+		<string>Cake</string>
+		<string>Car</string>
+		<string>Cat</string>
+		<string>Dog</string>
+		<string>Easter Egg</string>
+		<string>Feline</string>
+		<string>Flower</string>
+		<string>Food</string>
+		<string>Jewelry</string>
+		<string>Mountain</string>
+		<string>Music</string>
+		<string>Musical Instrument</string>
+		<string>Skiing</string>
+		<string>Snow</string>
+		<string>Sport</string>
+		<string>String Instrument</string>
+		<string>Tattoo</string>
+		<string>Thanksgiving</string>
+		<string>Vehicle</string>
+		<string>Winter Sport</string>
+	</array>
+</dict>
+</plist>

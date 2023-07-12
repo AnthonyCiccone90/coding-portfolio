@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PhotoAnalysisLastMusicCacheMusicKitConsistencyJobDate</key>
+	<date>2023-07-11T22:12:51Z</date>
+	<key>PhotoAnalysisLastMusicEvictDisplayMetadataCacheJobDate</key>
+	<date>2023-07-11T22:12:52Z</date>
+	<key>PhotoAnalysisLastMusicForArtistCacheJobDate</key>
+	<date>2023-07-11T22:12:51Z</date>
+	<key>PhotoAnalysisLastMusicForMomentCacheJobDate</key>
+	<date>2023-07-11T22:12:51Z</date>
+	<key>PhotoAnalysisLastMusicForTimeBackfillCacheJobDate</key>
+	<date>2023-07-11T22:12:51Z</date>
+	<key>PhotoAnalysisLastMusicForTimeFrontfillCacheJobDate</key>
+	<date>2023-07-11T22:12:51Z</date>
+	<key>PhotoAnalysisLastMusicForTopicPrefetchJobDate</key>
+	<date>2023-07-11T22:12:51Z</date>
+	<key>PhotoAnalysisLastMusicForYouCacheJobDate</key>
+	<date>2023-07-11T22:12:51Z</date>
+	<key>PhotoAnalysisLastMusicPruneCacheSourcesJobDate</key>
+	<date>2023-07-09T03:34:31Z</date>
+</dict>
+</plist>

@@ -1,0 +1,159 @@
+@media (max-width: 768px) {
+  .heading-text {
+    font-size: 40px;
+  }
+  #line {
+    border-right: none;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+nav li {
+  float: right;
+  font-size: 20px;
+
+}
+
+.nav-container {
+  display: flex;
+  background-color: gray;
+  justify-content: space-around;
+  margin-bottom: 1em;
+}
+
+#nav-items {
+  top: 0;
+  right: 0;
+  font-size: smaller;
+  text-indent: 20px;
+}
+
+#profile-pic {
+  width: 10%;
+  height: 10%;
+}
+
+#main-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.heading-container {
+  border-right: solid 3px green;
+  width: 25%;
+}
+.heading-text {
+  margin: 30%;
+}
+
+#about-side {
+  margin-bottom: 50%;
+}
+
+#portfolio-side {
+  margin-bottom: 40%
+}
+
+#contact-side {
+  margin-top: 60%
+}
+
+.content-container {
+  max-width: 65%;
+}
+
+#side-headings {
+  left: 10%;
+  list-style: none;
+  bottom: 300px;
+  font-family: "Space Mono", monospace;
+  font-size: 25px;
+}
+
+.heading-text {
+  margin-bottom: 30%;
+}
+
+.about-section {
+  padding-left: 30%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#about-p {
+  bottom: 900px;
+}
+
+/* Links to work */
+.project-container {
+  padding-left: 30%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex: 2, 1, 500px;
+}
+
+.project-container figure {
+  width: 30%;
+  margin-top: 30%;
+  flex: 2,1,10px;
+}
+
+/* Horiseon image */
+#horz {
+  width: 100%;
+
+}
+
+#youtube-logo {
+  width: 50%;
+}
+
+#github-link {
+width: 50%;
+}
+
+#portfolio-side {
+  bottom: 200px;
+}
+
+#contact-side {
+  top: 120px;
+}
+
+.emoji-container {
+  padding-left: 20%;
+  top: 1000px;
+  margin-top: 30%;
+}
+
+.emojis {
+  font-size: 200px;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+}
+
+form {
+  flex-direction: row;
+  padding-left: 35%;
+}
+
+#insta-logo {
+  height: 75%;
+}
+
+footer {
+  text-align: center;
+  margin-top: 5%;
+}
