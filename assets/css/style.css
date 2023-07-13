@@ -4,7 +4,6 @@
 @media (max-width: 768px) {
   html {
     scroll-behavior: smooth;
-    transition: transform 0.5s
   }
   .heading-text {
     font-size: 40px;
