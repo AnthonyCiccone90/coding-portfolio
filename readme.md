@@ -17,7 +17,7 @@ Please note the navigation links in the top right corner will work in tablet vie
 ### Link to Deployed Page
 https://anthonyciccone90.github.io/coding-portfolio/
 
-### Link to GitHub Repositstory
+### Link to GitHub Repository
 https://github.com/AnthonyCiccone90/coding-portfolio
 
 User story provided by University of Denver FSF coding bootcamp.
