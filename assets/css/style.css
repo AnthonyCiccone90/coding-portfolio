@@ -2,6 +2,9 @@
 
 /* tablet view */
 @media (max-width: 768px) {
+  html {
+    scroll-behavior: smooth;
+  }
   .heading-text {
     font-size: 40px;
   }
