@@ -1,22 +1,4 @@
 
-/* mobile view */
-@media (max-width: 414px) {
-  .heading-text {
-    font-size: 10px;
-  }
-  #line {
-    border-right: none;
-  }
-.heading-text  {
-  font-size: 10px;
-}
-  #about-p {
-    font-size: 4px;
-  }
-  .emojis {
-    margin-top: -10%;
-  }
-}
 
 /* tablet view */
 @media (max-width: 768px) {
