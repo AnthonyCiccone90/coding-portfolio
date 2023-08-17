@@ -114,7 +114,7 @@ nav li {
 
 /* Links to work */
 .project-container {
-  padding-left: -20%;
+  padding-left: 20%;
   display: flex;
   flex-direction: row;
   flex: 2 1 300px;
@@ -127,15 +127,15 @@ nav li {
 }
 /* MTG */
 #MTG {
-  width: 30%;
-  height: 30%;
-  padding-top: 40%;
+  width: 100%;
+  height: 100%;
+  padding-top: 10%;
 }
 
 
 /* Horiseon image */
 #horz {
-  width: 100%;
+  width: 40%;
 }
 
 #youtube-logo {
