@@ -114,7 +114,7 @@ nav li {
 
 /* Links to work */
 .project-container {
-  padding-left: 30%;
+  padding-left: -20%;
   display: flex;
   flex-direction: row;
   flex: 2 1 300px;
@@ -125,6 +125,13 @@ nav li {
   margin-top: 30%;
   /* flex: 2, 1, 300px; */
 }
+/* MTG */
+#MTG {
+  width: 30%;
+  height: 30%;
+  padding-top: 40%;
+}
+
 
 /* Horiseon image */
 #horz {

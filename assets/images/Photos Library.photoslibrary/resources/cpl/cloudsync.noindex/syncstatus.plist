@@ -14,11 +14,9 @@
 		<integer>0</integer>
 	</dict>
 	<key>cloudAssetCountPerTypeLastCheckDate</key>
-	<date>2023-07-11T20:06:43Z</date>
+	<date>2023-07-20T18:31:30Z</date>
 	<key>connectedToNetwork</key>
 	<true/>
-	<key>exitDeleteTime</key>
-	<date>2023-07-22T00:21:06Z</date>
 	<key>hasBatteryBudgetKey</key>
 	<true/>
 	<key>hasCellularBudgetKey</key>
@@ -30,13 +28,13 @@
 	<key>inAirplaneMode</key>
 	<false/>
 	<key>lastSyncDate</key>
-	<date>2023-07-12T14:47:44Z</date>
+	<date>2023-08-17T21:47:16Z</date>
 	<key>syncSessionMetrics</key>
 	<dict>
 		<key>BatteryBlockedCount</key>
-		<integer>6</integer>
+		<integer>8</integer>
 		<key>BlockedSessionsCount</key>
-		<integer>73</integer>
+		<integer>116</integer>
 		<key>CellularBlockedCount</key>
 		<integer>0</integer>
 		<key>LowDataModeBlockedCount</key>
@@ -44,11 +42,11 @@
 		<key>LowPowerModeBlockedCount</key>
 		<integer>0</integer>
 		<key>TotalSessionsCount</key>
-		<integer>87</integer>
+		<integer>137</integer>
 		<key>UIVisibleBlockedCount</key>
 		<integer>0</integer>
 		<key>UnknownReasonBlockedCount</key>
-		<integer>67</integer>
+		<integer>108</integer>
 	</dict>
 </dict>
 </plist>
